@@ -8,10 +8,8 @@
 
 #import "FFSpecialCell.h"
 #import "FFSpecialCellBottomView.h"
-#import "FFSpecialListReformerKeys.h"
-#import "FFAuthorListReformerKeys.h"
 //#import "FFAuthorListReformer.h"
-#import "CCSpecialKit.h"
+//#import "CCSpecialKit.h"
 
 @interface FFSpecialCell ()
 

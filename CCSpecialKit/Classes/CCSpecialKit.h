@@ -15,5 +15,6 @@
 #import <Masonry/Masonry.h>
 #import <ReactiveCocoa/ReactiveCocoa.h>
 #import <YYWebImage/YYWebImage.h>
+#import <CCReformerKeysKit/CCReformerKeysKit-umbrella.h>
 
 #endif /* CCSpecialKit_h */
