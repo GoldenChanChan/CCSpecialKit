@@ -1,0 +1,6 @@
+framework module CCConfigsKit {
+  umbrella header "CCConfigsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module CCMainViewKit {
+  umbrella header "CCMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
