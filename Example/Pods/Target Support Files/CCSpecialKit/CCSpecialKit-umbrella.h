@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CCSpecialKit.h"
 #import "FFSpecialDetailController.h"
 #import "FFSpecialDetailView.h"
 #import "FFSpecialCell.h"
