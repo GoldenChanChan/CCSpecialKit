@@ -11,7 +11,6 @@
 #import "SpecialAPIRequest.h"
 #import "FFSpecialListReformer.h"
 /// view
-#import "FFMainView.h"
 #import "FFSpecialCell.h"
 //#import "FFAuthorDetailController.h"
 #import "FFSpecialDetailController.h"

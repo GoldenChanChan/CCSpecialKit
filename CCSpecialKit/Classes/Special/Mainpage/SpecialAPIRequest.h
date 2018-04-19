@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Triangle. All rights reserved.
 //
 
-#import "APIRequest.h"
+#import "CCSpecialKit.h"
 
 @interface SpecialAPIRequest : APIRequest<APIRequestProtocol>
 
